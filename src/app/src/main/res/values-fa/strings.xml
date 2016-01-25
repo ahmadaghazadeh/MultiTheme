@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="red">قرمز</string>
+    <string name="pink"> صورتی</string>
+    <string name="purple"> بنفش</string>
+    <string name="deep_purple">بنفش عمیق</string>
+    <string name="indigo">نیلی</string>
+    <string name="light_blue">آبی کم</string>
+    <string name="cyan">فیروزه ای</string>
+    <string name="teal">مرغابی جره</string>
+    <string name="green">سبز</string>
+    <string name="light_green">سبز روشن</string>
+    <string name="lime">آهک</string>
+    <string name="yellow"> زرد</string>
+    <string name="amber">کهربا</string>
+    <string name="orange">نارنجی</string>
+    <string name="deep_orange">نارنجی عمیق</string>
+    <string name="brown">قهوه اي</string>
+    <string name="grey">خاکستری</string>
+    <string name="blue_grey">آبی خاکستری</string>
+
+</resources>
